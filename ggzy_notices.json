@@ -1,0 +1,642 @@
+{
+  "source": "https://ggzy.zj.gov.cn",
+  "notices": [
+    {
+      "title": "关于加快招标投标领域人工智能推广应用的实施意见(发改法规〔2026〕195号)",
+      "date": "2026-02-11",
+      "link": "https://ggzy.zj.gov.cn/xwzx/001002/20260211/ab79ef42-cf32-44d5-8612-88d125f08bab.html",
+      "type": "notice"
+    },
+    {
+      "title": "省发展改革委关于公开征求《浙江省工程建设项目招标人落实主体责任工作办法（征求意见稿）》意见建议的通知",
+      "date": "2026-02-06",
+      "link": "https://ggzy.zj.gov.cn/xwzx/001002/20260206/ea091ff8-2946-43d4-8c98-818376ea24c2.html",
+      "type": "notice"
+    },
+    {
+      "title": "省发展改革委等十部门关于发布《全省招标投标领域现行有效规章和行政规范性文件目录》的通知（浙发改公资〔2026〕1 号）",
+      "date": "2026-01-21",
+      "link": "https://ggzy.zj.gov.cn/xwzx/001002/20260121/8657cf92-4e94-49fe-91f3-5bd4738590b5.html",
+      "type": "notice"
+    },
+    {
+      "title": "【水利】浙江省水利厅关于印发工程总承包、勘察设计、监理招标文件示范文本（2025年）及施工招标文件示范文本补充规定的通知(浙水建〔2025〕37号)",
+      "date": "2026-01-06",
+      "link": "https://ggzy.zj.gov.cn/xwzx/001002/20260106/b2500ab6-ca7a-446b-a97c-40807ec05530.html",
+      "type": "notice"
+    },
+    {
+      "title": "浙江省综合评标专家库和评标专家管理办法（浙江省人民政府令第412号）",
+      "date": "2025-12-31",
+      "link": "https://ggzy.zj.gov.cn/xwzx/001002/20251231/33dca8d7-d72e-4c0e-8fa7-35f84168db0e.html",
+      "type": "notice"
+    },
+    {
+      "title": "省交通运输厅关于印发《浙江省交通建设工程从业主体信用评价管理细则（修订）》的通知",
+      "date": "2025-12-19",
+      "link": "https://ggzy.zj.gov.cn/xwzx/001002/20251219/1e2480cf-43f0-4824-92b5-2601c5af9210.html",
+      "type": "notice"
+    },
+    {
+      "title": "省建设厅关于印发《浙江省房屋建筑和市政基础设施工程监理招标开标评标规则》的通知",
+      "date": "2025-12-17",
+      "link": "https://ggzy.zj.gov.cn/xwzx/001002/20251217/266a4376-1c8e-4527-b9b1-839fd7fd4086.html",
+      "type": "notice"
+    },
+    {
+      "title": "住房城乡建设部办公厅　国家发展改革委办公厅关于印发《全国建筑市场监管公共服务平台工程建设项目招标代理机构信息数据标准》的通知（建办市函〔2025〕343号）",
+      "date": "2025-12-17",
+      "link": "https://ggzy.zj.gov.cn/xwzx/001002/20260211/eee3eccf-40b9-4977-9add-3b6d02982e1d.html",
+      "type": "notice"
+    },
+    {
+      "title": "杭州市公共资源交易平台·业务办理—网站操作手册",
+      "date": "2025-09-19",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011001/20251215/a975c6ba-d844-4526-a4c1-9912e992ce4a.html",
+      "type": "notice"
+    },
+    {
+      "title": "舟山市数字招标交易系统关于房建市政技术标通过制的综合评估法开评标操作手册（代理）",
+      "date": "2025-08-07",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011001/20250807/f0e65481-abe2-461c-b606-4b9614e261b5.html",
+      "type": "notice"
+    },
+    {
+      "title": "丽水市公共资源电子交易平台相关操作手册",
+      "date": "2025-07-30",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011001/20250730/e4ed40ff-06c8-4b39-a3de-8a2a80f3302c.html",
+      "type": "notice"
+    },
+    {
+      "title": "台州市公共资源交易“浙里招标”数字平台相关操作手册",
+      "date": "2025-03-25",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011001/20250325/9594b10d-fef2-408b-a769-73c5d1915d4f.html",
+      "type": "notice"
+    },
+    {
+      "title": "舟山市公共资源交易平台登录问题自助手册",
+      "date": "2024-10-11",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011001/20241011/0a2d0e9e-3885-4a46-a0e7-0aa3858d40bb.html",
+      "type": "notice"
+    },
+    {
+      "title": "绍兴市工程建设项目招标人项目注册操作手册-绍兴市本级版",
+      "date": "2023-12-20",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011001/20231220/e1b87347-f255-44bb-ba5b-bd547229954c.html",
+      "type": "notice"
+    },
+    {
+      "title": "建设工程项目招标投标业务办理指南（温州市本级）",
+      "date": "2023-12-12",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011001/20231212/805197c2-be1b-455c-bc9f-676a8da9168a.html",
+      "type": "notice"
+    },
+    {
+      "title": "浙江CA互认APP操作手册",
+      "date": "2023-01-25",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011004/20230125/c5ceaebb-2b60-402b-98aa-f7d8fd78cbc0.html",
+      "type": "notice"
+    },
+    {
+      "title": "浙江省公共资源交易涉企收费目录清单",
+      "date": "2022-08-03",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011005/20190424/e6da7e29-8950-42b6-8915-13349d5cafba.html",
+      "type": "notice"
+    },
+    {
+      "title": "关于杭州市公共资源交易中心淳安分中心公共资源交易收费事项的通知",
+      "date": "2019-03-15",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011005/20190315/1b2fd002-ddbb-4ef6-b844-f2edc436d069.html",
+      "type": "notice"
+    },
+    {
+      "title": "杭州市人民政府关于降成本、减负担、去产能全面推进实体经济健康发展的若干意见",
+      "date": "2019-03-15",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011005/20190315/47cd2ec1-be84-4b36-b340-2c72afa5d35e.html",
+      "type": "notice"
+    },
+    {
+      "title": "衢州市公共资源交易中心收费标准",
+      "date": "2019-02-27",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011005/20190227/0e9685ad-34c5-47c9-9ee1-c8caad78a9ec.html",
+      "type": "notice"
+    },
+    {
+      "title": "关于降低和规范舟山市公共资源交易服务收费的通知",
+      "date": "2019-02-26",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011005/20190226/1cade1f3-6aa5-4048-b878-4d0f8f1a5479.html",
+      "type": "notice"
+    },
+    {
+      "title": "湖州市发展和改革委员会关于规范湖州市公共资源交易服务收费的通知",
+      "date": "2019-02-26",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011005/20190226/76ba120f-1ddd-4517-92cc-2de7e3d9115f.html",
+      "type": "notice"
+    },
+    {
+      "title": "丽水市发展和改革委员会关于规范公共资源交易服务收费的通知",
+      "date": "2019-02-26",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011005/20190226/245ad4e5-b933-4d06-85c1-d9c96fdb2671.html",
+      "type": "notice"
+    },
+    {
+      "title": "工程建设项目招标投标活动投诉处理办法(国家七部委第11号令)",
+      "date": "2025-06-20",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011007/20250620/be0565ed-2be3-4949-b0ee-0b2fdf38a5bb.html",
+      "type": "notice"
+    },
+    {
+      "title": "浙江省人民政府关于进一步构建规范有序招标投标市场的若干意见（浙政发〔2024〕17号）",
+      "date": "2024-09-05",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011007/20240905/5357003f-41ba-4cbc-a643-8ddc052cc63b.html",
+      "type": "notice"
+    },
+    {
+      "title": "政府采购供应商投诉处理办法",
+      "date": "2022-08-03",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011007/20170831/b6553ea8-f8f1-4926-88ff-3e911def8cbb.html",
+      "type": "notice"
+    },
+    {
+      "title": "浙江省统一招投标交易平台联系方式：4000-222-888",
+      "date": "2025-11-28",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008001/20251128/b098b837-02dc-45f8-9da0-6e93014946f6.html",
+      "type": "notice"
+    },
+    {
+      "title": "杭州市公共资源交易中心联系方式：0571-89587888",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008002/20240312/0c2f6e9b-dda0-434a-8c1e-eb628fa41883.html",
+      "type": "notice"
+    },
+    {
+      "title": "宁波市公共资源交易中心联系方式：0574-87187290",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008002/20240312/da06b307-6619-4a13-bcc2-c09ea3e64e90.html",
+      "type": "notice"
+    },
+    {
+      "title": "温州市公共资源交易中心联系方式：0577-88926598",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008002/20240312/5f2c2ade-2027-4e78-9143-20f9c1b216f2.html",
+      "type": "notice"
+    },
+    {
+      "title": "嘉兴市公共资源交易中心联系方式：0573-83682265",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008002/20240312/6450b2ad-d95b-4f31-bf1d-796cbb77c7dc.html",
+      "type": "notice"
+    },
+    {
+      "title": "湖州市公共资源交易中心联系方式：0572-2220018、0572-2220017",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008002/20240312/5b2dcf02-86ed-4ea7-a718-d59150720096.html",
+      "type": "notice"
+    },
+    {
+      "title": "绍兴市公共资源交易中心联系方式：0575-88306000、0575-88024203",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008002/20240312/f79dbc00-5b6d-4c03-8325-fe94060f1db0.html",
+      "type": "notice"
+    },
+    {
+      "title": "金华市公共资源交易中心联系方式：0579-83180571",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008002/20240312/9eb8d06a-f9cf-4592-aaef-e33ce8760e0c.html",
+      "type": "notice"
+    },
+    {
+      "title": "衢州市公共资源交易中心联系方式：0570-3899062",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008002/20240312/5f64a39e-52c7-4c9c-852f-46dfe38e574b.html",
+      "type": "notice"
+    },
+    {
+      "title": "舟山市公共资源交易中心联系方式：0580-2280957",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008002/20230510/78ac85c7-6baf-4189-9fe6-1b6dedebae87.html",
+      "type": "notice"
+    },
+    {
+      "title": "台州市公共资源交易中心联系方式：0576-88685137",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008002/20240312/f92e129a-2813-44b3-b950-929d2aeef239.html",
+      "type": "notice"
+    },
+    {
+      "title": "丽水市公共资源交易中心联系方式：0578-2292117",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008002/20240312/8b45e4c4-3465-4724-ac99-238d021f14f7.html",
+      "type": "notice"
+    },
+    {
+      "title": "浙江省政府采购交易中心联系方式：95763",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008001/20240312/de025896-c37e-46dd-93b0-6d1e8da409d7.html",
+      "type": "notice"
+    },
+    {
+      "title": "浙江省生态环境低碳发展中心联系方式：0571-89921823",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008001/20240312/51cb6e22-1951-47b0-a675-3326c11d55fd.html",
+      "type": "notice"
+    },
+    {
+      "title": "华东林业产权交易所联系方式：0571-86486000",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008001/20240312/07c646c9-02ed-488e-936f-c96233ae177e.html",
+      "type": "notice"
+    },
+    {
+      "title": "浙江产权交易所联系方式：400-696-3939",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008001/20240312/9a32efba-9b0c-46e2-bbf9-771602f598be.html",
+      "type": "notice"
+    },
+    {
+      "title": "浙江省自然资源网上交易中心联系方式：0571-88877395",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008001/20240312/39ae4549-96fd-46b4-9aea-41354c1445a3.html",
+      "type": "notice"
+    },
+    {
+      "title": "浙江省药械采购中心联系方式：0571-12393",
+      "date": "2025-01-14",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008001/20240312/de7989d4-328c-4252-9287-3120c17d3720.html",
+      "type": "notice"
+    },
+    {
+      "title": "浙江省用能权交易平台联系方式：0571-87050421",
+      "date": "2024-03-12",
+      "link": "https://ggzy.zj.gov.cn/fwzn/011008/011008001/20240312/d3b283ca-b28e-443e-9e5d-319367cff27b.html",
+      "type": "notice"
+    },
+    {
+      "title": "2025年浙江省公共资源交易服务平台门户网站工作年度报表",
+      "date": "2026-01-15",
+      "link": "https://ggzy.zj.gov.cn/xwzx/001003/20260115/9cff0738-2528-4155-92b6-264cc377ac14.html",
+      "type": "notice"
+    },
+    {
+      "title": "2024年浙江省公共资源交易服务平台门户网站工作年度报表",
+      "date": "2025-01-15",
+      "link": "https://ggzy.zj.gov.cn/xwzx/001003/20250115/260512c2-2c2f-48a6-b455-b288ffd1bdfb.html",
+      "type": "notice"
+    },
+    {
+      "title": "2023年浙江省公共资源交易服务平台门户网站工作年度报表",
+      "date": "2024-01-30",
+      "link": "https://ggzy.zj.gov.cn/xwzx/001003/20240130/b833c62e-fbd8-4baf-85cc-ff3517aa343b.html",
+      "type": "notice"
+    }
+  ],
+  "bidding_projects": [
+    {
+      "title": "江南大道地面道路拓宽改造工程（东信大道-西兴立交）一期工程（东信大道-中兴立交）",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/d8412499-4321-4be4-828c-e070d0220bd5.html"
+    },
+    {
+      "title": "礼贤未来社区幼儿园项目工程总承包（EPC）",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/60a29660-35f8-403a-9de3-4ee751ba27b5.html"
+    },
+    {
+      "title": "江山市张村乡张柘线至大梅水毁修复工程公示",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/84a51bdc-50bc-4143-b10b-29f05866fba9.html"
+    },
+    {
+      "title": "江南大道地面道路拓宽改造工程（东信大道-西兴立交）一期工程（东信大道-中兴立交）监理",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/547f4038-50f1-4c3d-ba35-696ebe95823b.html"
+    },
+    {
+      "title": "中国银行衢州市分行办公层改造项目中国银行衢州市分行办公层改造工程施工招标公告",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/6b759a63-5bdf-462d-900a-52a33113e1d0.html"
+    },
+    {
+      "title": "2019年海盐县秦山街道高标准农田建设项目施工监理",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/c51b8a3b-360b-4410-87ac-f101edf1a68b.html"
+    },
+    {
+      "title": "2016年全国新增千亿斤粮食生产能力规划海盐县田间工程建设项目-结余工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/ac77d412-0cd2-412c-968f-7e704e3481e8.html"
+    },
+    {
+      "title": "临安区中医院整体迁建及康养中心建设项目——医用气体工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/404fee16-fdd3-4e80-8ebe-4aa9e4446c72.html"
+    },
+    {
+      "title": "临安天目药港医药产业孵化园项目（一期1C楼）工程电梯设备采购安装工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/92960eb7-e650-4d97-9522-6706bd3679cd.html"
+    },
+    {
+      "title": "临安中医院康养中心项目",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/69d5950e-cd16-4133-939d-1a1d637725e5.html"
+    },
+    {
+      "title": "松阳县赤寿生态工业区块（近期）基础设施工程—横三路遗址公园",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/ee0b70dd-b24e-4cfe-859d-d4f58b7031d4.html"
+    },
+    {
+      "title": "新生闻涛大厦（暂定名）项目桩基工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/5fa6007c-ea23-4622-bfdd-60a5a2330846.html"
+    },
+    {
+      "title": "上虞区曹娥街道曹娥社区党群服务中心装修改造工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/35bdf431-98e1-49f4-bf35-9b5cc16a239b.html"
+    },
+    {
+      "title": "原南浔区公安分局提升改造项目",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/de1310b4-fa51-4021-b4ae-db552c6ecca9.html"
+    },
+    {
+      "title": "临海市牛头山特色渔村项目施工招标公告",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/69d1de56-b805-4416-a280-6f866e39e5c7.html"
+    },
+    {
+      "title": "江南大道地面道路拓宽改造工程（东信大道-西兴立交）一期工程（东信大道-中兴立交）",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/d8412499-4321-4be4-828c-e070d0220bd5.html"
+    },
+    {
+      "title": "礼贤未来社区幼儿园项目工程总承包（EPC）",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/60a29660-35f8-403a-9de3-4ee751ba27b5.html"
+    },
+    {
+      "title": "江山市张村乡张柘线至大梅水毁修复工程公示",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/84a51bdc-50bc-4143-b10b-29f05866fba9.html"
+    },
+    {
+      "title": "江南大道地面道路拓宽改造工程（东信大道-西兴立交）一期工程（东信大道-中兴立交）监理",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/547f4038-50f1-4c3d-ba35-696ebe95823b.html"
+    },
+    {
+      "title": "中国银行衢州市分行办公层改造项目中国银行衢州市分行办公层改造工程施工招标公告",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/6b759a63-5bdf-462d-900a-52a33113e1d0.html"
+    },
+    {
+      "title": "2019年海盐县秦山街道高标准农田建设项目施工监理",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/c51b8a3b-360b-4410-87ac-f101edf1a68b.html"
+    },
+    {
+      "title": "2016年全国新增千亿斤粮食生产能力规划海盐县田间工程建设项目-结余工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/ac77d412-0cd2-412c-968f-7e704e3481e8.html"
+    },
+    {
+      "title": "临安区中医院整体迁建及康养中心建设项目——医用气体工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/404fee16-fdd3-4e80-8ebe-4aa9e4446c72.html"
+    },
+    {
+      "title": "临安天目药港医药产业孵化园项目（一期1C楼）工程电梯设备采购安装工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/92960eb7-e650-4d97-9522-6706bd3679cd.html"
+    },
+    {
+      "title": "临安中医院康养中心项目",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/69d5950e-cd16-4133-939d-1a1d637725e5.html"
+    },
+    {
+      "title": "松阳县赤寿生态工业区块（近期）基础设施工程—横三路遗址公园",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/ee0b70dd-b24e-4cfe-859d-d4f58b7031d4.html"
+    },
+    {
+      "title": "新生闻涛大厦（暂定名）项目桩基工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/5fa6007c-ea23-4622-bfdd-60a5a2330846.html"
+    },
+    {
+      "title": "上虞区曹娥街道曹娥社区党群服务中心装修改造工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/35bdf431-98e1-49f4-bf35-9b5cc16a239b.html"
+    },
+    {
+      "title": "原南浔区公安分局提升改造项目",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/de1310b4-fa51-4021-b4ae-db552c6ecca9.html"
+    },
+    {
+      "title": "临海市牛头山特色渔村项目施工招标公告",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/69d1de56-b805-4416-a280-6f866e39e5c7.html"
+    },
+    {
+      "title": "江南大道地面道路拓宽改造工程（东信大道-西兴立交）一期工程（东信大道-中兴立交）",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/d8412499-4321-4be4-828c-e070d0220bd5.html"
+    },
+    {
+      "title": "礼贤未来社区幼儿园项目工程总承包（EPC）",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/60a29660-35f8-403a-9de3-4ee751ba27b5.html"
+    },
+    {
+      "title": "江山市张村乡张柘线至大梅水毁修复工程公示",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/84a51bdc-50bc-4143-b10b-29f05866fba9.html"
+    },
+    {
+      "title": "江南大道地面道路拓宽改造工程（东信大道-西兴立交）一期工程（东信大道-中兴立交）监理",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/547f4038-50f1-4c3d-ba35-696ebe95823b.html"
+    },
+    {
+      "title": "中国银行衢州市分行办公层改造项目中国银行衢州市分行办公层改造工程施工招标公告",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/6b759a63-5bdf-462d-900a-52a33113e1d0.html"
+    },
+    {
+      "title": "2019年海盐县秦山街道高标准农田建设项目施工监理",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/c51b8a3b-360b-4410-87ac-f101edf1a68b.html"
+    },
+    {
+      "title": "2016年全国新增千亿斤粮食生产能力规划海盐县田间工程建设项目-结余工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/ac77d412-0cd2-412c-968f-7e704e3481e8.html"
+    },
+    {
+      "title": "临安区中医院整体迁建及康养中心建设项目——医用气体工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/404fee16-fdd3-4e80-8ebe-4aa9e4446c72.html"
+    },
+    {
+      "title": "临安天目药港医药产业孵化园项目（一期1C楼）工程电梯设备采购安装工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/92960eb7-e650-4d97-9522-6706bd3679cd.html"
+    },
+    {
+      "title": "临安中医院康养中心项目",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/69d5950e-cd16-4133-939d-1a1d637725e5.html"
+    },
+    {
+      "title": "松阳县赤寿生态工业区块（近期）基础设施工程—横三路遗址公园",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/ee0b70dd-b24e-4cfe-859d-d4f58b7031d4.html"
+    },
+    {
+      "title": "新生闻涛大厦（暂定名）项目桩基工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/5fa6007c-ea23-4622-bfdd-60a5a2330846.html"
+    },
+    {
+      "title": "上虞区曹娥街道曹娥社区党群服务中心装修改造工程",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/35bdf431-98e1-49f4-bf35-9b5cc16a239b.html"
+    },
+    {
+      "title": "原南浔区公安分局提升改造项目",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/de1310b4-fa51-4021-b4ae-db552c6ecca9.html"
+    },
+    {
+      "title": "临海市牛头山特色渔村项目施工招标公告",
+      "date": "2019-11-29",
+      "link": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20191129/69d1de56-b805-4416-a280-6f866e39e5c7.html"
+    }
+  ],
+  "list_page_candidates": [
+    {
+      "url": "https://ggzy.zj.gov.cn/xwzx/001002/infolist.html",
+      "text": "更多 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/xwzx/001005/infolist_hydt.html",
+      "text": "更多 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/xwzx/001002/20260211/ab79ef42-cf32-44d5-8612-88d125f08bab.html",
+      "text": "关于加快招标投标领域人工智能推广应用的实施意见(发改法规〔2026〕195号)2026-02-11 关于加快招标投标领域人工智能推广应用的实施意见(发改法规〔2"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/xwzx/001002/20260206/ea091ff8-2946-43d4-8c98-818376ea24c2.html",
+      "text": "省发展改革委关于公开征求《浙江省工程建设项目招标人落实主体责任工作办法（征求意见稿）》意见建议的通知2026-02-06 省发展改革委关于公开征求《浙江省工程建"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/xwzx/001002/20260121/8657cf92-4e94-49fe-91f3-5bd4738590b5.html",
+      "text": "省发展改革委等十部门关于发布《全省招标投标领域现行有效规章和行政规范性文件目录》的通知（浙发改公资〔2026〕1 号）2026-01-21 省发展改革委等十部门"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/xwzx/001002/20260106/b2500ab6-ca7a-446b-a97c-40807ec05530.html",
+      "text": "【水利】浙江省水利厅关于印发工程总承包、勘察设计、监理招标文件示范文本（2025年）及施工招标文件示范文本补充规定的通知(浙水建〔2025〕37号)2026-0"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/xwzx/001002/20251217/266a4376-1c8e-4527-b9b1-839fd7fd4086.html",
+      "text": "省建设厅关于印发《浙江省房屋建筑和市政基础设施工程监理招标开标评标规则》的通知2025-12-17 省建设厅关于印发《浙江省房屋建筑和市政基础设施工程监理招标开"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/xwzx/001002/20260211/eee3eccf-40b9-4977-9add-3b6d02982e1d.html",
+      "text": "住房城乡建设部办公厅　国家发展改革委办公厅关于印发《全国建筑市场监管公共服务平台工程建设项目招标代理机构信息数据标准》的通知（建办市函〔2025〕343号）20"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/list.html",
+      "text": "更多 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20260306/3ad4f20b-f5ae-4ed2-b31d-2c850589ba5e.html",
+      "text": "宝轴路（申明亭路-灵芝路）工程勘察设计[A3302050250026375002001]2026-03-06 宝轴路（申明亭路-灵芝路）工程勘察设计[A3302"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20260306/eec80fe9-63db-429f-8537-965b5fe377e5.html",
+      "text": "方岩风景区美丽田园项目施工[A3307840900007592002001]2026-03-06 方岩风景区美丽田园项目施工[A3307840900007592"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20260306/14585be2-be8a-4f48-ad8a-ca47a8c86994.html",
+      "text": "兰韵中心[A3306030730002627001002]2026-03-06 兰韵中心[A3306030730002627001002]"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20260306/f53c2750-f1d9-49ed-87c1-798272511054.html",
+      "text": "展茅工业园区至高新区工业污水处理中心总管工程[A3309031020004091001001]2026-03-06 展茅工业园区至高新区工业污水处理中心总管工程"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20260306/3efcd320-791a-4e30-9e2e-8a012a9238bb.html",
+      "text": "浙江镜岭水库工程阀门等设备采购[A3306010720060222001001]2026-03-06 浙江镜岭水库工程阀门等设备采购[A330601072006"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20260306/e311b66f-d150-470f-a14e-ae539d2f71c2.html",
+      "text": "2026年仙居县国省道公路养护工程施工监理[A3310011060101426001001]2026-03-06 2026年仙居县国省道公路养护工程施工监理[A"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20260306/4ca59b68-af19-4cbb-9a33-c98f492646d5.html",
+      "text": "青田县东门社区特色风情街区改造项目电力迁改招标公告[A3311011160018317001001]2026-03-06 青田县东门社区特色风情街区改造项目电力"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/002001/002001001/20260306/373586f9-fc4f-49f7-ab17-711f874a82ef.html",
+      "text": "温州生命健康医学研究创新中心建设工程（二阶段）配电工程[A3303010410007744001001]2026-03-06 温州生命健康医学研究创新中心建设工"
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/fwzn/infolist.html",
+      "text": " "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/xwzx/001003/infolist.html",
+      "text": " "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/list.html",
+      "text": "更多 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/list.html?cate=工程建设&catenum=002001",
+      "text": "工程建设 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/list.html?cate=政府采购&catenum=002002",
+      "text": "政府采购 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/list.html?cate=土地使用权&catenum=002003",
+      "text": "土地使用权 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/list.html?cate=矿业权&catenum=002006",
+      "text": "矿业权 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/list.html?cate=海域使用权&catenum=002013",
+      "text": "海域使用权 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/list.html?cate=国有产权&catenum=002004",
+      "text": "国有产权 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/list.html?cate=国企采购&catenum=002011",
+      "text": "国企采购 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/list.html?cate=用能权&catenum=002010",
+      "text": "用能权 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/list.html?cate=排污权&catenum=002008",
+      "text": "排污权 "
+    },
+    {
+      "url": "https://ggzy.zj.gov.cn/jyxxgk/list.html?cate=其他交易&catenum=002007",
+      "text": "其他交易 "
+    }
+  ]
+}

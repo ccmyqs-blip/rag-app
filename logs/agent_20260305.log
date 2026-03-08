@@ -1,0 +1,36 @@
+2026-03-05 17:21:33,316 - agent - INFO -logger_handler.py:45 - 信息日志
+2026-03-05 17:21:33,316 - agent - ERROR -logger_handler.py:46 - 错误日志
+2026-03-05 17:21:33,316 - agent - WARNING -logger_handler.py:47 - 警告日志
+2026-03-05 17:21:33,317 - agent - DEBUG -logger_handler.py:48 - 调试日志
+2026-03-05 19:03:17,424 - agent - ERROR -prompt_loader.py:16 - [load_system_prompts]解析系统提示词出错
+2026-03-05 21:07:27,950 - agent - ERROR -file_handler.py:31 - [listdir_with_allowed_type]data不是文件夹
+2026-03-05 21:07:45,369 - agent - ERROR -file_handler.py:31 - [listdir_with_allowed_type]data不是文件夹
+2026-03-05 21:15:22,590 - agent - ERROR -vector_store.py:85 - 加载数据库F:\Agent\01\data\大象验房全流程.pdf加载失败，'Chroma' object has no attribute 'add',exc_info =True
+2026-03-05 21:15:22,621 - agent - ERROR -vector_store.py:85 - 加载数据库F:\Agent\01\data\新建文本文档.txt加载失败，'Chroma' object has no attribute 'add',exc_info =True
+2026-03-05 21:22:11,778 - agent - ERROR -vector_store.py:85 - 加载数据库F:\Agent\01\data\大象验房全流程.pdf加载失败，'Chroma' object has no attribute 'add_document',exc_info =True
+2026-03-05 21:22:11,779 - agent - ERROR -vector_store.py:85 - 加载数据库F:\Agent\01\data\新建文本文档.txt加载失败，'Chroma' object has no attribute 'add_document',exc_info =True
+2026-03-05 21:22:44,252 - agent - INFO -vector_store.py:83 - 加载数据库F:\Agent\01\data\大象验房全流程.pdf内容加载成功
+2026-03-05 21:22:45,360 - agent - INFO -vector_store.py:83 - 加载数据库F:\Agent\01\data\新建文本文档.txt内容加载成功
+2026-03-05 21:23:38,131 - agent - INFO -vector_store.py:83 - 加载数据库F:\Agent\01\data\大象验房全流程.pdf内容加载成功
+2026-03-05 21:23:39,422 - agent - INFO -vector_store.py:83 - 加载数据库F:\Agent\01\data\新建文本文档.txt内容加载成功
+2026-03-05 22:54:14,539 - agent - WARNING -agent_tools.py:57 - 未能检索到1001在2025-01的使用数据
+2026-03-05 23:51:27,612 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有1条消息
+2026-03-05 23:53:32,408 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有1条消息
+2026-03-05 23:54:21,469 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有1条消息
+2026-03-05 23:54:21,469 - agent - DEBUG -middleware.py:41 - [log_before_model] HumanMessage | 王梦佳
+2026-03-05 23:55:22,100 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有1条消息
+2026-03-05 23:55:22,100 - agent - DEBUG -middleware.py:41 - [log_before_model] HumanMessage | 我所在哪座城市
+2026-03-05 23:56:27,484 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有1条消息
+2026-03-05 23:56:27,484 - agent - DEBUG -middleware.py:41 - [log_before_model] HumanMessage | 天气如何
+2026-03-05 23:57:25,879 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有1条消息
+2026-03-05 23:57:25,879 - agent - DEBUG -middleware.py:41 - [log_before_model] HumanMessage | 天气如何
+2026-03-05 23:57:28,129 - agent - INFO -middleware.py:20 - [tool monitor]执行工具：get_user_location
+2026-03-05 23:57:28,129 - agent - INFO -middleware.py:21 - [tool monitor]传入参数：{}
+2026-03-05 23:57:28,129 - agent - INFO -middleware.py:25 - [tool monitor]工具get_user_location调用成功
+2026-03-05 23:57:28,130 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有3条消息
+2026-03-05 23:57:28,130 - agent - DEBUG -middleware.py:41 - [log_before_model] ToolMessage | 杭州
+2026-03-05 23:57:29,822 - agent - INFO -middleware.py:20 - [tool monitor]执行工具：get_weather
+2026-03-05 23:57:29,822 - agent - INFO -middleware.py:21 - [tool monitor]传入参数：{'city': '杭州'}
+2026-03-05 23:57:29,823 - agent - INFO -middleware.py:25 - [tool monitor]工具get_weather调用成功
+2026-03-05 23:57:29,823 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有5条消息
+2026-03-05 23:57:29,823 - agent - DEBUG -middleware.py:41 - [log_before_model] ToolMessage | 城市杭州为晴天

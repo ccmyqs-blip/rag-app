@@ -1,0 +1,48 @@
+2026-03-06 00:16:14,214 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有1条消息
+2026-03-06 00:16:14,214 - agent - DEBUG -middleware.py:41 - [log_before_model] HumanMessage | 天气如何
+2026-03-06 00:16:17,371 - agent - INFO -middleware.py:20 - [tool monitor]执行工具：get_user_location
+2026-03-06 00:16:17,371 - agent - INFO -middleware.py:21 - [tool monitor]传入参数：{}
+2026-03-06 00:16:17,373 - agent - INFO -middleware.py:25 - [tool monitor]工具get_user_location调用成功
+2026-03-06 00:16:17,374 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有3条消息
+2026-03-06 00:16:17,374 - agent - DEBUG -middleware.py:41 - [log_before_model] ToolMessage | 杭州
+2026-03-06 00:16:20,622 - agent - INFO -middleware.py:20 - [tool monitor]执行工具：get_weather
+2026-03-06 00:16:20,622 - agent - INFO -middleware.py:21 - [tool monitor]传入参数：{'city': '杭州'}
+2026-03-06 00:16:20,624 - agent - INFO -middleware.py:25 - [tool monitor]工具get_weather调用成功
+2026-03-06 00:16:20,626 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有5条消息
+2026-03-06 00:16:20,626 - agent - DEBUG -middleware.py:41 - [log_before_model] ToolMessage | 城市杭州为晴天
+2026-03-06 00:18:09,979 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有1条消息
+2026-03-06 00:18:09,979 - agent - DEBUG -middleware.py:41 - [log_before_model] HumanMessage | 天气如何
+2026-03-06 00:18:11,952 - agent - INFO -middleware.py:20 - [tool monitor]执行工具：get_user_location
+2026-03-06 00:18:11,952 - agent - INFO -middleware.py:21 - [tool monitor]传入参数：{}
+2026-03-06 00:18:11,954 - agent - INFO -middleware.py:25 - [tool monitor]工具get_user_location调用成功
+2026-03-06 00:18:11,955 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有3条消息
+2026-03-06 00:18:11,955 - agent - DEBUG -middleware.py:41 - [log_before_model] ToolMessage | 杭州
+2026-03-06 00:18:14,280 - agent - INFO -middleware.py:20 - [tool monitor]执行工具：get_weather
+2026-03-06 00:18:14,281 - agent - INFO -middleware.py:21 - [tool monitor]传入参数：{'city': '杭州'}
+2026-03-06 00:18:14,283 - agent - INFO -middleware.py:25 - [tool monitor]工具get_weather调用成功
+2026-03-06 00:18:14,284 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有5条消息
+2026-03-06 00:18:14,284 - agent - DEBUG -middleware.py:41 - [log_before_model] ToolMessage | 城市杭州为晴天
+2026-03-06 00:19:14,885 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有1条消息
+2026-03-06 00:19:14,885 - agent - DEBUG -middleware.py:41 - [log_before_model] HumanMessage | 天气如何
+2026-03-06 00:19:16,095 - agent - INFO -middleware.py:20 - [tool monitor]执行工具：get_user_location
+2026-03-06 00:19:16,095 - agent - INFO -middleware.py:21 - [tool monitor]传入参数：{}
+2026-03-06 00:19:16,097 - agent - INFO -middleware.py:25 - [tool monitor]工具get_user_location调用成功
+2026-03-06 00:19:16,099 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有3条消息
+2026-03-06 00:19:16,099 - agent - DEBUG -middleware.py:41 - [log_before_model] ToolMessage | 杭州
+2026-03-06 00:19:17,926 - agent - INFO -middleware.py:20 - [tool monitor]执行工具：get_weather
+2026-03-06 00:19:17,926 - agent - INFO -middleware.py:21 - [tool monitor]传入参数：{'city': '杭州'}
+2026-03-06 00:19:17,927 - agent - INFO -middleware.py:25 - [tool monitor]工具get_weather调用成功
+2026-03-06 00:19:17,928 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有5条消息
+2026-03-06 00:19:17,928 - agent - DEBUG -middleware.py:41 - [log_before_model] ToolMessage | 城市杭州为晴天
+2026-03-06 00:20:30,640 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有1条消息
+2026-03-06 00:20:30,640 - agent - DEBUG -middleware.py:41 - [log_before_model] HumanMessage | 天气如何
+2026-03-06 00:20:34,338 - agent - INFO -middleware.py:20 - [tool monitor]执行工具：get_user_location
+2026-03-06 00:20:34,338 - agent - INFO -middleware.py:21 - [tool monitor]传入参数：{}
+2026-03-06 00:20:34,340 - agent - INFO -middleware.py:25 - [tool monitor]工具get_user_location调用成功
+2026-03-06 00:20:34,374 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有3条消息
+2026-03-06 00:20:34,374 - agent - DEBUG -middleware.py:41 - [log_before_model] ToolMessage | 杭州
+2026-03-06 00:20:35,826 - agent - INFO -middleware.py:20 - [tool monitor]执行工具：get_weather
+2026-03-06 00:20:35,826 - agent - INFO -middleware.py:21 - [tool monitor]传入参数：{'city': '杭州'}
+2026-03-06 00:20:35,827 - agent - INFO -middleware.py:25 - [tool monitor]工具get_weather调用成功
+2026-03-06 00:20:35,916 - agent - INFO -middleware.py:40 - [log_before_model]即将调用模型，带有5条消息
+2026-03-06 00:20:35,917 - agent - DEBUG -middleware.py:41 - [log_before_model] ToolMessage | 城市杭州为晴天
