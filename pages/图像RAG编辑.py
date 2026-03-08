@@ -2,9 +2,6 @@ import io
 
 import streamlit as st
 
-from services.image_rag_edit_pipeline import ImageRagEditPipeline
-
-
 st.set_page_config(page_title="图像 RAG 编辑", layout="wide")
 
 st.title("图像 RAG 编辑（相似图片检索 + NanoBanana/Gemini）")
@@ -14,11 +11,29 @@ st.caption(
 )
 st.divider()
 
+# 惰性初始化流水线；国内无外网或缺少依赖时优雅降级，不报错崩溃
 if "image_rag_pipeline" not in st.session_state:
-    # 惰性初始化流水线，避免无用的模型/连接创建
-    st.session_state["image_rag_pipeline"] = ImageRagEditPipeline()
+    try:
+        from services.image_rag_edit_pipeline import ImageRagEditPipeline
+        st.session_state["image_rag_pipeline"] = ImageRagEditPipeline()
+        st.session_state["image_rag_edit_error"] = None
+    except Exception as e:
+        st.session_state["image_rag_pipeline"] = None
+        err_msg = str(e).strip()
+        if "google-generativeai" in err_msg or "GEMINI_API_KEY" in err_msg or "GOOGLE_API_KEY" in err_msg:
+            st.session_state["image_rag_edit_error"] = (
+                "图像编辑功能需要外网环境（Google Gemini API）及 GEMINI_API_KEY。"
+                "当前环境不可用时，本页仅做说明；请在有外网或代理的机器上使用，或配置好 Key 后重建镜像。"
+            )
+        else:
+            st.session_state["image_rag_edit_error"] = f"图像编辑服务不可用：{err_msg}"
 
-pipeline: ImageRagEditPipeline = st.session_state["image_rag_pipeline"]
+if st.session_state.get("image_rag_edit_error"):
+    st.warning(st.session_state["image_rag_edit_error"])
+    st.info("您仍可在「RAG服务」页面上传与检索图片；图像 RAG 编辑需 Gemini 可用后再用。")
+    st.stop()
+
+pipeline = st.session_state["image_rag_pipeline"]
 
 with st.sidebar:
     st.header("检索与生成参数")

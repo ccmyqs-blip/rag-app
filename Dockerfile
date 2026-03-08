@@ -26,9 +26,10 @@ RUN apt-get update && \
     rm -rf /var/lib/apt/lists/*
 
 # Copy dependency definitions and install Python dependencies first (better layer caching)
+# 国内构建：使用清华 PyPI 镜像，确保 google-generativeai 等可安装
 COPY requirements.txt ./requirements.txt
-RUN pip install --upgrade pip && \
-    pip install --user -r requirements.txt
+RUN pip install --upgrade pip -i https://pypi.tuna.tsinghua.edu.cn/simple && \
+    pip install --user -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 # Copy application code
 COPY . .

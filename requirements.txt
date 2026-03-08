@@ -10,6 +10,7 @@ langchain-text-splitters
 langgraph
 chromadb
 dashscope
+google-generativeai
 
 pypdf
 pillow
