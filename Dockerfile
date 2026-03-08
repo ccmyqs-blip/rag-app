@@ -1,4 +1,5 @@
-FROM python:3.10-slim
+# 国内服务器可用：从 docker.1ms.run 拉取，避免 Docker Hub 超时
+FROM docker.1ms.run/library/python:3.10-slim
 
 # Prevent Python from buffering stdout/stderr
 ENV PYTHONUNBUFFERED=1 \
